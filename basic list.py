@@ -1,5 +1,5 @@
 numbers = [10,20,30,40,50]
- print(f"Original list: {numbers}")
+print(f"Original list: {numbers}")
 
 # add a number to the list
 numbers.append(60)
